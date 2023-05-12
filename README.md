@@ -7,7 +7,7 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 
 See the webpage of USGS services.
 
-#imageUSGS
+![image](https://github.com/zuntaalejandra/leaflet-challenge/blob/main/Images/3-Data.png)
 
 This webpage implements a world map to visualize all the earthquakes from the Past 7 Days
 
@@ -19,7 +19,8 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
 The following image is a sampling of earthquake data in JSON format:
 
-#imageJSON
+![image](https://github.com/zuntaalejandra/leaflet-challenge/blob/main/Images/4-JSON.png)
+
 
 # Special considerations
 
@@ -29,6 +30,8 @@ The JSON data reflects the magnitude of the earthquake by their size and the dep
 
 See in this image the visualization of the map, uploading the index.html file in a internet browser.
 
-#imageMapZA
+
+![image](https://github.com/zuntaalejandra/leaflet-challenge/blob/main/Images/6-MapZA.png)
+
 
 
